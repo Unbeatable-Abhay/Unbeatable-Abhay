@@ -101,7 +101,7 @@
       /* Keyframes for Cursor Movement */
       @keyframes cursor-move-1 {
         0% { opacity: 1; transform: translateX(0px); }
-        10% { opacity: 0; transform: translateX(115px); }
+        10% { opacity: 0; transform: translateX(100px); }
         100% { opacity: 0; }
       }
       @keyframes cursor-move-2 {
