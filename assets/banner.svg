@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <!-- Import Google Fonts -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;family=Outfit:wght@400;600;800&amp;display=swap');
+
+      /* Global Styles */
+      .terminal-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        fill: #9ca3af;
+      }
+      .terminal-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 15px;
+        fill: #e5e7eb;
+      }
+      .bold-text {
+        font-weight: 700;
+      }
+      .prompt-user {
+        fill: #43ffaf;
+        font-weight: bold;
+      }
+      .prompt-symbol {
+        fill: #00f2fe;
+        font-weight: bold;
+      }
+      .prompt-cmd {
+        fill: #e5e7eb;
+      }
+      .highlight-name {
+        fill: #00f2fe;
+        font-weight: bold;
+        filter: drop-shadow(0 0 5px rgba(0, 242, 254, 0.6));
+      }
+      .highlight-role {
+        fill: #ffbd2e;
+        font-weight: bold;
+      }
+      .highlight-skills {
+        fill: #3b82f6;
+        font-weight: bold;
+      }
+
+      /* Animated Lines (Typing Effect via Clip Path) */
+      .line-1 {
+        clip-path: inset(0 100% 0 0);
+        animation: type-line-1 14s infinite steps(40);
+      }
+      .line-2 {
+        clip-path: inset(0 100% 0 0);
+        animation: type-line-2 14s infinite steps(40);
+      }
+      .line-3 {
+        clip-path: inset(0 100% 0 0);
+        animation: type-line-3 14s infinite steps(45);
+      }
+      .line-4 {
+        clip-path: inset(0 100% 0 0);
+        animation: type-line-4 14s infinite steps(50);
+      }
+
+      /* Cursor Animation */
+      .cursor {
+        fill: #00f2fe;
+        animation: blink 0.8s infinite;
+      }
+      .cursor-1 { animation: blink 0.8s infinite, cursor-move-1 14s infinite; }
+      .cursor-2 { animation: blink 0.8s infinite, cursor-move-2 14s infinite; }
+      .cursor-3 { animation: blink 0.8s infinite, cursor-move-3 14s infinite; }
+      .cursor-4 { animation: blink 0.8s infinite, cursor-move-4 14s infinite; }
+
+      /* Keyframes for Typing */
+      @keyframes type-line-1 {
+        0% { clip-path: inset(0 100% 0 0); }
+        10% { clip-path: inset(0 0 0 0); }
+        92% { clip-path: inset(0 0 0 0); }
+        96%, 100% { clip-path: inset(0 100% 0 0); }
+      }
+      @keyframes type-line-2 {
+        0%, 12% { clip-path: inset(0 100% 0 0); }
+        24% { clip-path: inset(0 0 0 0); }
+        92% { clip-path: inset(0 0 0 0); }
+        96%, 100% { clip-path: inset(0 100% 0 0); }
+      }
+      @keyframes type-line-3 {
+        0%, 26% { clip-path: inset(0 100% 0 0); }
+        40% { clip-path: inset(0 0 0 0); }
+        92% { clip-path: inset(0 0 0 0); }
+        96%, 100% { clip-path: inset(0 100% 0 0); }
+      }
+      @keyframes type-line-4 {
+        0%, 42% { clip-path: inset(0 100% 0 0); }
+        58% { clip-path: inset(0 0 0 0); }
+        92% { clip-path: inset(0 0 0 0); }
+        96%, 100% { clip-path: inset(0 100% 0 0); }
+      }
+
+      /* Keyframes for Cursor Movement */
+      @keyframes cursor-move-1 {
+        0% { opacity: 1; transform: translateX(0px); }
+        10% { opacity: 0; transform: translateX(290px); }
+        100% { opacity: 0; }
+      }
+      @keyframes cursor-move-2 {
+        0%, 12% { opacity: 0; transform: translateX(0px); }
+        13% { opacity: 1; transform: translateX(0px); }
+        24% { opacity: 0; transform: translateX(230px); }
+        100% { opacity: 0; }
+      }
+      @keyframes cursor-move-3 {
+        0%, 26% { opacity: 0; transform: translateX(0px); }
+        27% { opacity: 1; transform: translateX(0px); }
+        40% { opacity: 0; transform: translateX(410px); }
+        100% { opacity: 0; }
+      }
+      @keyframes cursor-move-4 {
+        0%, 42% { opacity: 0; transform: translateX(0px); }
+        43% { opacity: 1; transform: translateX(0px); }
+        58% { opacity: 1; transform: translateX(530px); }
+        92% { opacity: 1; transform: translateX(530px); }
+        93%, 100% { opacity: 0; }
+      }
+
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      /* Cyberpunk Border Pulse */
+      .border-glow {
+        stroke: url(#neonGradient);
+        stroke-width: 2;
+        filter: drop-shadow(0 0 8px rgba(0, 242, 254, 0.4));
+        animation: border-pulse 4s infinite alternate;
+      }
+      @keyframes border-pulse {
+        0% { filter: drop-shadow(0 0 4px rgba(0, 242, 254, 0.3)); }
+        100% { filter: drop-shadow(0 0 12px rgba(79, 172, 254, 0.8)); }
+      }
+    </style>
+
+    <!-- Glowing Blue/Cyan Gradient -->
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+
+    <!-- Tech Grid Background -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e293b" stroke-width="0.8" stroke-opacity="0.6" />
+    </pattern>
+  </defs>
+
+  <!-- Terminal Window Background (Glow & Rounded Card) -->
+  <rect x="15" y="15" width="820" height="220" rx="12" fill="#0b0f19" class="border-glow" />
+  <!-- Grid Fill -->
+  <rect x="16" y="16" width="818" height="218" rx="12" fill="url(#grid)" />
+
+  <!-- Terminal Header / Title Bar -->
+  <g>
+    <!-- Control Dots (Mac Style) -->
+    <circle cx="40" cy="40" r="6" fill="#ff5f56" />
+    <circle cx="60" cy="40" r="6" fill="#ffbd2e" />
+    <circle cx="80" cy="40" r="6" fill="#27c93f" />
+    
+    <!-- Window Title -->
+    <text x="425" y="45" text-anchor="middle" class="terminal-title">abhay@developer:~</text>
+    
+    <!-- Header Separation Line -->
+    <line x1="15" y1="60" x2="835" y2="60" stroke="#1e293b" stroke-width="1.5" />
+  </g>
+
+  <!-- Terminal Body Content -->
+  <g transform="translate(40, 75)">
+    <!-- Line 1: whoami command -->
+    <g transform="translate(0, 20)">
+      <text class="terminal-text bold-text">
+        <tspan class="prompt-user">abhay</tspan><tspan class="prompt-symbol">@github</tspan><tspan fill="#9ca3af">:~$</tspan> <tspan class="prompt-cmd">whoami</tspan>
+      </text>
+      <text x="175" y="0" class="terminal-text line-1"><tspan class="highlight-name">Abhay Pratap</tspan></text>
+      <rect x="175" y="-14" width="8" height="17" class="cursor-1" />
+    </g>
+
+    <!-- Line 2: Role -->
+    <g transform="translate(0, 50)">
+      <text class="terminal-text line-2">
+        <tspan fill="#9ca3af">&gt; Role:</tspan> <tspan class="highlight-role">CSE-AI Student &amp; Developer</tspan>
+      </text>
+      <rect x="0" y="-14" width="8" height="17" class="cursor-2" />
+    </g>
+
+    <!-- Line 3: Focus -->
+    <g transform="translate(0, 80)">
+      <text class="terminal-text line-3">
+        <tspan fill="#9ca3af">&gt; Focus:</tspan> <tspan fill="#38bdf8">Python | Flask | Discord Bots | DSA</tspan>
+      </text>
+      <rect x="0" y="-14" width="8" height="17" class="cursor-3" />
+    </g>
+
+    <!-- Line 4: Tech Stack array -->
+    <g transform="translate(0, 110)">
+      <text class="terminal-text line-4">
+        <tspan fill="#9ca3af">&gt; Tech Stack:</tspan> <tspan class="highlight-skills">["Python", "Flask", "HTML", "CSS", "SQL"]</tspan>
+      </text>
+      <rect x="0" y="-14" width="8" height="17" class="cursor-4" />
+    </g>
+  </g>
+</svg>
