@@ -179,10 +179,10 @@
     <!-- Line 1: whoami command -->
     <g transform="translate(0, 20)">
       <text class="terminal-text bold-text">
-        <tspan class="prompt-user">abhay</tspan><tspan class="prompt-symbol">@github</tspan><tspan fill="#9ca3af">:~$</tspan> <tspan class="prompt-cmd">whoami</tspan>
+        <tspan class="prompt-user">abhay</tspan><tspan class="prompt-symbol">@github</tspan><tspan fill="#9ca3af">:~$</tspan> <tspan class="prompt-cmd">who am i: </tspan>
       </text>
-      <text x="190" y="0" class="terminal-text line-1"><tspan class="highlight-name">Abhay Chauhan</tspan></text>
-      <rect x="190" y="-14" width="8" height="17" class="cursor-1" />
+      <text x="209" y="0" class="terminal-text line-1"><tspan class="highlight-name">Abhay Chauhan</tspan></text>
+      <rect x="209" y="-14" width="8" height="17" class="cursor-1" />
     </g>
 
     <!-- Line 2: Role -->
