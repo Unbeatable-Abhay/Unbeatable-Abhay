@@ -101,7 +101,7 @@
       /* Keyframes for Cursor Movement */
       @keyframes cursor-move-1 {
         0% { opacity: 1; transform: translateX(0px); }
-        10% { opacity: 0; transform: translateX(130px); }
+        10% { opacity: 0; transform: translateX(115px); }
         100% { opacity: 0; }
       }
       @keyframes cursor-move-2 {
@@ -181,8 +181,8 @@
       <text class="terminal-text bold-text">
         <tspan class="prompt-user">abhay</tspan><tspan class="prompt-symbol">@github</tspan><tspan fill="#9ca3af">:~$</tspan> <tspan class="prompt-cmd">whoami</tspan>
       </text>
-      <text x="220" y="0" class="terminal-text line-1"><tspan class="highlight-name">Abhay Chauhan</tspan></text>
-      <rect x="220" y="-14" width="8" height="17" class="cursor-1" />
+      <text x="190" y="0" class="terminal-text line-1"><tspan class="highlight-name">Abhay Chauhan</tspan></text>
+      <rect x="190" y="-14" width="8" height="17" class="cursor-1" />
     </g>
 
     <!-- Line 2: Role -->
