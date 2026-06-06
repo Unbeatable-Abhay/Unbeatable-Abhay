@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is a dying programmer's last program?
+> "Whatever is begun in anger, ends in shame."
 >
-> **Punchline:** *Goodbye, world!*
+> — **Benjamin Franklin**
 <!-- END_DAILY_QUOTE -->
 
 ---
