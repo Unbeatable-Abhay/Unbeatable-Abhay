@@ -91,8 +91,6 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 
 ---
 
-### ⚡ Daily Dev Quote / Joke
-
 <!-- START_DAILY_QUOTE -->
 > **Setup:** What is a dying programmer's last program?
 >
