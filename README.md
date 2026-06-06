@@ -71,7 +71,7 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Unbeatable-Abhay&show_icons=true&theme=tokyonight&border_radius=10" alt="Abhay's GitHub Stats" height="200" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Unbeatable-Abhay&show_icons=true&theme=tokyonight&border_radius=10" alt="Abhay's GitHub Stats" height="200" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unbeatable-Abhay&theme=tokyonight&border_radius=10" alt="Abhay's Streak Stats" height="200" />
@@ -79,7 +79,7 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unbeatable-Abhay&layout=compact&theme=tokyonight&border_radius=10" alt="Abhay's Top Languages" height="150" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Unbeatable-Abhay&layout=compact&theme=tokyonight&border_radius=10" alt="Abhay's Top Languages" height="150" />
       </td>
     </tr>
   </table>
