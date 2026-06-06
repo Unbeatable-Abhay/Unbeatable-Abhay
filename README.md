@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
+> "Heaven is right where you are standing."
 >
-> — *Programming Joke*
+> — **Morihei Ueshiba**
 <!-- END_DAILY_QUOTE -->
 
 ---
