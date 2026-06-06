@@ -87,19 +87,13 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 
 ---
 
-### ⚡ Live Dynamic Quote
-
-Here's an automated daily developer quote or programming joke to keep you inspired:
+### ⚡ Daily Dev Quote / Joke
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+> **Setup:** What is a dying programmer's last program?
 >
-> **Punchline:** *A regular expression.*
-
-*Last Updated: Saturday, June 06, 2026 at 10:49 AM UTC*
+> **Punchline:** *Goodbye, world!*
 <!-- END_DAILY_QUOTE -->
-
-*(This profile updates automatically every 24 hours.)*
 
 ---
 

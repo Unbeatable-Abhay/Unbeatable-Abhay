@@ -89,9 +89,8 @@ def update_readme():
 
     # Get new dynamic content
     new_quote = get_content()
-    current_time = datetime.now(timezone.utc).strftime("%A, %B %d, %Y at %I:%M %p UTC")
     
-    formatted_block = f"<!-- START_DAILY_QUOTE -->\n{new_quote}\n\n*Last Updated: {current_time}*\n<!-- END_DAILY_QUOTE -->"
+    formatted_block = f"<!-- START_DAILY_QUOTE -->\n{new_quote}\n<!-- END_DAILY_QUOTE -->"
 
     # Regex search and replace
     pattern = r"<!-- START_DAILY_QUOTE -->.*?<!-- END_DAILY_QUOTE -->"
