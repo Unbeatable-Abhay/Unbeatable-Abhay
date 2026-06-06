@@ -76,13 +76,17 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unbeatable-Abhay&theme=tokyonight&border_radius=10" alt="Abhay's Streak Stats" height="200" />
       </td>
-    </tr>
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Unbeatable-Abhay&layout=compact&theme=tokyonight&border_radius=10" alt="Abhay's Top Languages" height="150" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+  
+  <!-- 3D Contribution Calendar -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Abhay's 3D Contribution Graph" width="850" />
 </div>
 
 ---

@@ -22,6 +22,12 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
 
+    - name: Generate 3D contribution graph
+      uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        USERNAME: ${{ github.repository_owner }}
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -39,6 +45,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add README.md
+        git add README.md profile-3d-contrib/
         # Check if there are changes to commit, commit and push if there are
         git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update daily quote [skip ci]" && git push)
