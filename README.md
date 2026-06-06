@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Whatever is begun in anger, ends in shame."
+> "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
 >
-> — **Benjamin Franklin**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
