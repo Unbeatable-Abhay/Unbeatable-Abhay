@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Heaven is right where you are standing."
+> "To succeed takes more than the desire to win. It also takes the acceptance that we could fail."
 >
-> — **Morihei Ueshiba**
+> — **Simon Sinek**
 <!-- END_DAILY_QUOTE -->
 
 ---
