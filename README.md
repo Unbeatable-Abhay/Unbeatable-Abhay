@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "To succeed takes more than the desire to win. It also takes the acceptance that we could fail."
+> **Setup:** Why did the programmer quit his job?
 >
-> — **Simon Sinek**
+> **Punchline:** *Because he didn't get arrays.*
 <!-- END_DAILY_QUOTE -->
 
 ---
