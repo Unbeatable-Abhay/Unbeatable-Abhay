@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the programmer quit his job?
+> **Setup:** How did the programmer die in the shower?
 >
-> **Punchline:** *Because he didn't get arrays.*
+> **Punchline:** *He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
 <!-- END_DAILY_QUOTE -->
 
 ---
