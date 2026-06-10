@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** How did the programmer die in the shower?
+> **Setup:** What do you call a developer who doesn't comment code?
 >
-> **Punchline:** *He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
+> **Punchline:** *A developer.*
 <!-- END_DAILY_QUOTE -->
 
 ---
