@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What do you call a developer who doesn't comment code?
+> **Setup:** Why did the web developer walk out of a resturant in disgust?
 >
-> **Punchline:** *A developer.*
+> **Punchline:** *The seating was laid out in tables.*
 <!-- END_DAILY_QUOTE -->
 
 ---
