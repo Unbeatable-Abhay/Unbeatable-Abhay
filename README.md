@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the web developer walk out of a resturant in disgust?
+> "If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."
 >
-> **Punchline:** *The seating was laid out in tables.*
+> — **Lao Tzu**
 <!-- END_DAILY_QUOTE -->
 
 ---
