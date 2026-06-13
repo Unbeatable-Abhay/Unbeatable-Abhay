@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."
+> "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."
 >
-> — **Lao Tzu**
+> — **Zig Ziglar**
 <!-- END_DAILY_QUOTE -->
 
 ---
