@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."
+> **Setup:** Why do Java programmers hate communism?
 >
-> — *Programming Joke*
+> **Punchline:** *They don't want to live in a classless society.*
 <!-- END_DAILY_QUOTE -->
 
 ---
