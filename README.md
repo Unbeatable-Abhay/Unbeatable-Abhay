@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do Java programmers hate communism?
+> "Act the way you want to be and soon you'll be the way you act."
 >
-> **Punchline:** *They don't want to live in a classless society.*
+> — **Les Brown**
 <!-- END_DAILY_QUOTE -->
 
 ---
