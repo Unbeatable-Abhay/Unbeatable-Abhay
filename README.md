@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Act the way you want to be and soon you'll be the way you act."
+> "Pleasure can be supported by an illusion; but happiness rests upon truth."
 >
-> — **Les Brown**
+> — **Nicolas Chamfort**
 <!-- END_DAILY_QUOTE -->
 
 ---
