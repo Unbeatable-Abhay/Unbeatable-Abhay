@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Pleasure can be supported by an illusion; but happiness rests upon truth."
+> "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
 >
-> — **Nicolas Chamfort**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
