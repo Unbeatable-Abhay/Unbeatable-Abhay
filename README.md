@@ -92,7 +92,7 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+> "Your mama's so FAT she can't save files bigger than 4GB."
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
