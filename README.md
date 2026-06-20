@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Your mama's so FAT she can't save files bigger than 4GB."
+> "Learn the rules like a pro, so you can break them like an artist."
 >
-> — *Programming Joke*
+> — **Pablo Picasso**
 <!-- END_DAILY_QUOTE -->
 
 ---
