@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Learn the rules like a pro, so you can break them like an artist."
+> "// This line doesn't actually do anything, but the code stops working when I delete it."
 >
-> — **Pablo Picasso**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
