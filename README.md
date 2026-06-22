@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "// This line doesn't actually do anything, but the code stops working when I delete it."
+> "Remember the entrance to the sanctuary is inside you."
 >
-> — *Programming Joke*
+> — **Rumi**
 <!-- END_DAILY_QUOTE -->
 
 ---
