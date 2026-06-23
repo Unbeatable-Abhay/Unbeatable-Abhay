@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Remember the entrance to the sanctuary is inside you."
+> "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
 >
-> — **Rumi**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
