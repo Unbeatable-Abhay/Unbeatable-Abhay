@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+> "Better to light a candle than to curse the darkness."
 >
-> — *Programming Joke*
+> — **Chinese Proverb**
 <!-- END_DAILY_QUOTE -->
 
 ---
