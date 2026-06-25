@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Better to light a candle than to curse the darkness."
+> **Setup:** Why did the programmer jump on the table?
 >
-> — **Chinese Proverb**
+> **Punchline:** *Because debug was on his screen.*
 <!-- END_DAILY_QUOTE -->
 
 ---
