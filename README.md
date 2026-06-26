@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the programmer jump on the table?
+> **Setup:** How did you make your friend rage?
 >
-> **Punchline:** *Because debug was on his screen.*
+> **Punchline:** *I implemented a greek question mark in his JavaScript code.*
 <!-- END_DAILY_QUOTE -->
 
 ---
