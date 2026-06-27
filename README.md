@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** How did you make your friend rage?
+> "Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."
 >
-> **Punchline:** *I implemented a greek question mark in his JavaScript code.*
+> — **Alexander Pope**
 <!-- END_DAILY_QUOTE -->
 
 ---
