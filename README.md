@@ -92,9 +92,14 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."
+> ""Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java.""
 >
-> — **Alexander Pope**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
