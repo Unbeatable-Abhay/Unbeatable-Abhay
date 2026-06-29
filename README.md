@@ -92,14 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> ""Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java.""
+> **Setup:** Why is Linux safe?
 >
-> — *Programming Joke*
+> **Punchline:** *Hackers peak through Windows only.*
 <!-- END_DAILY_QUOTE -->
 
 ---
