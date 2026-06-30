@@ -92,9 +92,11 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why is Linux safe?
+> ""Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke.""
 >
-> **Punchline:** *Hackers peak through Windows only.*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
