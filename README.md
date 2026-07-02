@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "However difficult life may seem, there is always something you can do and succeed at."
+> **Setup:** What do you call a group of 8 Hobbits?
 >
-> — **Stephen Hawking**
+> **Punchline:** *A Hobbyte.*
 <!-- END_DAILY_QUOTE -->
 
 ---
