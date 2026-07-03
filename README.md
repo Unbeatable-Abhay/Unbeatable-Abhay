@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What do you call a group of 8 Hobbits?
+> "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."
 >
-> **Punchline:** *A Hobbyte.*
+> — **Billie Jean King**
 <!-- END_DAILY_QUOTE -->
 
 ---
