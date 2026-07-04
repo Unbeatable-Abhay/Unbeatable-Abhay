@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."
+> **Setup:** How many programmers does it take to screw in a light bulb?
 >
-> — **Billie Jean King**
+> **Punchline:** *None. It's a hardware problem.*
 <!-- END_DAILY_QUOTE -->
 
 ---
