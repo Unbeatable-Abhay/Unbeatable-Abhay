@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** How many programmers does it take to screw in a light bulb?
+> **Setup:** How can you tell an extroverted programmer?
 >
-> **Punchline:** *None. It's a hardware problem.*
+> **Punchline:** *He looks at YOUR shoes when he's talking.*
 <!-- END_DAILY_QUOTE -->
 
 ---
