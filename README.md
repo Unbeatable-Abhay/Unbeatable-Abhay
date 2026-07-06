@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** How can you tell an extroverted programmer?
+> **Setup:** What is a dying programmer's last program?
 >
-> **Punchline:** *He looks at YOUR shoes when he's talking.*
+> **Punchline:** *Goodbye, world!*
 <!-- END_DAILY_QUOTE -->
 
 ---
