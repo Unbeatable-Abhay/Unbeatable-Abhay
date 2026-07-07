@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is a dying programmer's last program?
+> "Courage is found in unlikely places."
 >
-> **Punchline:** *Goodbye, world!*
+> — **J.R.R. Tolkien**
 <!-- END_DAILY_QUOTE -->
 
 ---
