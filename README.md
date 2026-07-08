@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Courage is found in unlikely places."
+> **Setup:** How can you tell an extroverted programmer?
 >
-> — **J.R.R. Tolkien**
+> **Punchline:** *He looks at YOUR shoes when he's talking.*
 <!-- END_DAILY_QUOTE -->
 
 ---
