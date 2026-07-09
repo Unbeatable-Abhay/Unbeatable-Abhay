@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** How can you tell an extroverted programmer?
+> "UDP is better in the COVID era since it avoids unnecessary handshakes."
 >
-> **Punchline:** *He looks at YOUR shoes when he's talking.*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
