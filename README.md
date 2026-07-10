@@ -92,7 +92,11 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "UDP is better in the COVID era since it avoids unnecessary handshakes."
+> "Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock."
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
