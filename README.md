@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."
+> "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."
 >
-> — *Programming Joke*
+> — **Richard Bach**
 <!-- END_DAILY_QUOTE -->
 
 ---
