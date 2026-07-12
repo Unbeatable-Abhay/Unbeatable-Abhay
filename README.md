@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."
+> "Don't change your mind just because people are offended; change your mind if you're wrong."
 >
-> — **Richard Bach**
+> — **Criss Jami**
 <!-- END_DAILY_QUOTE -->
 
 ---
