@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Don't change your mind just because people are offended; change your mind if you're wrong."
+> "Life is about not knowing and then doing something anyway."
 >
-> — **Criss Jami**
+> — **Mark Manson**
 <!-- END_DAILY_QUOTE -->
 
 ---
