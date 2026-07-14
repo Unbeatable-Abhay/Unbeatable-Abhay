@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Life is about not knowing and then doing something anyway."
+> "If you do not tell the truth about yourself you cannot tell it about other people."
 >
-> — **Mark Manson**
+> — **Virginia Woolf**
 <!-- END_DAILY_QUOTE -->
 
 ---
