@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If you do not tell the truth about yourself you cannot tell it about other people."
+> **Setup:** Why do programmers wear glasses?
 >
-> — **Virginia Woolf**
+> **Punchline:** *Because they need to C#*
 <!-- END_DAILY_QUOTE -->
 
 ---
