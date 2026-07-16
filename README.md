@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers wear glasses?
+> "Enjoy life. There's plenty of time to be dead."
 >
-> **Punchline:** *Because they need to C#*
+> — **Hans Christian Andersen**
 <!-- END_DAILY_QUOTE -->
 
 ---
