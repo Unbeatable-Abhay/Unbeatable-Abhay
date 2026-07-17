@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Enjoy life. There's plenty of time to be dead."
+> **Setup:** Why is 6 afraid of 7 in hexadecimal Canada?
 >
-> — **Hans Christian Andersen**
+> **Punchline:** *Because 7 8 9 A?*
 <!-- END_DAILY_QUOTE -->
 
 ---
