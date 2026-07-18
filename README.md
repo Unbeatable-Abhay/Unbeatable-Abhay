@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why is 6 afraid of 7 in hexadecimal Canada?
+> "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
 >
-> **Punchline:** *Because 7 8 9 A?*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
