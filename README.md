@@ -92,7 +92,7 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
+> "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
