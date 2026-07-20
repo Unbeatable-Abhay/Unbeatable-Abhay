@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."
+> "Trust in dreams, for in them is the hidden gate to eternity."
 >
-> — *Programming Joke*
+> — **Kahlil Gibran**
 <!-- END_DAILY_QUOTE -->
 
 ---
