@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Trust in dreams, for in them is the hidden gate to eternity."
+> **Setup:** Why are Assembly programmers always soaking wet?
 >
-> — **Kahlil Gibran**
+> **Punchline:** *They work below C-level.*
 <!-- END_DAILY_QUOTE -->
 
 ---
