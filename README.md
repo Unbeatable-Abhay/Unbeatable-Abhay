@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why are Assembly programmers always soaking wet?
+> "You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."
 >
-> **Punchline:** *They work below C-level.*
+> — **Norman Vincent Peale**
 <!-- END_DAILY_QUOTE -->
 
 ---
