@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."
+> "The two most important days in your life are the day you are born and the day you find out why."
 >
-> — **Norman Vincent Peale**
+> — **Mark Twain**
 <!-- END_DAILY_QUOTE -->
 
 ---
