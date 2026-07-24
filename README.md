@@ -92,9 +92,10 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The two most important days in your life are the day you are born and the day you find out why."
+> "A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?""
 >
-> — **Mark Twain**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
