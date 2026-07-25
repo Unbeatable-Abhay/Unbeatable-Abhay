@@ -92,10 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?""
+> "The fastest way to change is to laugh at your own folly."
 >
-> — *Programming Joke*
+> — **Spencer Johnson**
 <!-- END_DAILY_QUOTE -->
 
 ---
