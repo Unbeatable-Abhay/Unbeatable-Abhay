@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The fastest way to change is to laugh at your own folly."
+> "He is not a lover who does not love forever."
 >
-> — **Spencer Johnson**
+> — **Euripides**
 <!-- END_DAILY_QUOTE -->
 
 ---
