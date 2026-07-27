@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "He is not a lover who does not love forever."
+> "The generation of random numbers is too important to be left to chance."
 >
-> — **Euripides**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
