@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The generation of random numbers is too important to be left to chance."
+> "If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."
 >
-> — *Programming Joke*
+> — **Charles Darwin**
 <!-- END_DAILY_QUOTE -->
 
 ---
