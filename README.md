@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Don't settle, and don't struggle."
+> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
 >
-> — **Naval Ravikant**
+> — **Colin R. Davis**
 <!-- END_DAILY_QUOTE -->
 
 ---
