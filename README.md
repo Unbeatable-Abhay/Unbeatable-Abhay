@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+> "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."
 >
-> — **Colin R. Davis**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
