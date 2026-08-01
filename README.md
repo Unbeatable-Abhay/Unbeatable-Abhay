@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."
+> "It's the unknown we fear when we look upon death and darkness, nothing more."
 >
-> — *Programming Joke*
+> — **Albus Dumbledore**
 <!-- END_DAILY_QUOTE -->
 
 ---
