@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "It's the unknown we fear when we look upon death and darkness, nothing more."
+> **Setup:** Why do programmers prefer using the dark mode?
 >
-> — **Albus Dumbledore**
+> **Punchline:** *Because light attracts bugs.*
 <!-- END_DAILY_QUOTE -->
 
 ---
