@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers prefer using the dark mode?
+> **Setup:** Why is 6 afraid of 7 in hexadecimal Canada?
 >
-> **Punchline:** *Because light attracts bugs.*
+> **Punchline:** *Because 7 8 9 A?*
 <!-- END_DAILY_QUOTE -->
 
 ---
