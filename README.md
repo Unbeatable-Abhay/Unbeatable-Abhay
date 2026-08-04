@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why is 6 afraid of 7 in hexadecimal Canada?
+> "Two SQL tables sit at the bar. A query approaches and asks "Can I join you?""
 >
-> **Punchline:** *Because 7 8 9 A?*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
