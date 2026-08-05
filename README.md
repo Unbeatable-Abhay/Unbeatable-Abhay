@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Two SQL tables sit at the bar. A query approaches and asks "Can I join you?""
+> "Be willing to be a beginner every single morning."
 >
-> — *Programming Joke*
+> — **Meister Eckhart**
 <!-- END_DAILY_QUOTE -->
 
 ---
