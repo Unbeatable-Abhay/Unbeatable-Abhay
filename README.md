@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Be willing to be a beginner every single morning."
+> "Great acts are made up of small deeds."
 >
-> — **Meister Eckhart**
+> — **Lao Tzu**
 <!-- END_DAILY_QUOTE -->
 
 ---
