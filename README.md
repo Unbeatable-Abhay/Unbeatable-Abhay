@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Great acts are made up of small deeds."
+> "To love means loving the unlovable."
 >
-> — **Lao Tzu**
+> — **Gilbert Chesterton**
 <!-- END_DAILY_QUOTE -->
 
 ---
