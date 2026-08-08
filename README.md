@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "To love means loving the unlovable."
+> "The majority of what you want will come from the minority of what you do."
 >
-> — **Gilbert Chesterton**
+> — **Gary Keller**
 <!-- END_DAILY_QUOTE -->
 
 ---
