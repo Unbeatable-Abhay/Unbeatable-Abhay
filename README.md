@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The majority of what you want will come from the minority of what you do."
+> "// This line doesn't actually do anything, but the code stops working when I delete it."
 >
-> — **Gary Keller**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
