@@ -92,7 +92,10 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "// This line doesn't actually do anything, but the code stops working when I delete it."
+> "Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double.""
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
