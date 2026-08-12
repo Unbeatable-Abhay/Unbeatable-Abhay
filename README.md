@@ -92,12 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> ""Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned."
+> **Setup:** What is the most used language in programming?
 >
-> — *Programming Joke*
+> **Punchline:** *Profanity.*
 <!-- END_DAILY_QUOTE -->
 
 ---
