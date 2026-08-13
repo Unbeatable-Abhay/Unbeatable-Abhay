@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the most used language in programming?
+> "Successful people do what unsuccessful people are not willing to do."
 >
-> **Punchline:** *Profanity.*
+> — **Jim Rohn**
 <!-- END_DAILY_QUOTE -->
 
 ---
