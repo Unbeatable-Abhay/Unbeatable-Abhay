@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5."
+> **Setup:** Why did the programmer quit his job?
 >
-> — *Programming Joke*
+> **Punchline:** *Because he didn't get arrays.*
 <!-- END_DAILY_QUOTE -->
 
 ---
