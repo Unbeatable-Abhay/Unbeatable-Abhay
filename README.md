@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the programmer quit his job?
+> "Perseverance and spirit have done wonders in all ages."
 >
-> **Punchline:** *Because he didn't get arrays.*
+> — **George Washington**
 <!-- END_DAILY_QUOTE -->
 
 ---
