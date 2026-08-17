@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Perseverance and spirit have done wonders in all ages."
+> "Success is often achieved by those who don't know that failure is inevitable."
 >
-> — **George Washington**
+> — **Coco Chanel**
 <!-- END_DAILY_QUOTE -->
 
 ---
