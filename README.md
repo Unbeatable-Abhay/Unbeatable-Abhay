@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Success is often achieved by those who don't know that failure is inevitable."
+> "Truth is like most opinions - best unexpressed."
 >
-> — **Coco Chanel**
+> — **Kenneth Branagh**
 <!-- END_DAILY_QUOTE -->
 
 ---
