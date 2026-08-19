@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Truth is like most opinions - best unexpressed."
+> "Believe you can and you're halfway there."
 >
-> — **Kenneth Branagh**
+> — **Colin R. Davis**
 <!-- END_DAILY_QUOTE -->
 
 ---
