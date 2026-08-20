@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Believe you can and you're halfway there."
+> "You are not stuck where you are unless you decide to be."
 >
-> — **Colin R. Davis**
+> — **Wayne Dyer**
 <!-- END_DAILY_QUOTE -->
 
 ---
