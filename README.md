@@ -92,9 +92,13 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "You are not stuck where you are unless you decide to be."
+> "Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you."
 >
-> — **Wayne Dyer**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
