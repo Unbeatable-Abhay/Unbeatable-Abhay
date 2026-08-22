@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you."
+> **Setup:** What is a dying programmer's last program?
 >
-> — *Programming Joke*
+> **Punchline:** *Goodbye, world!*
 <!-- END_DAILY_QUOTE -->
 
 ---
