@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is a dying programmer's last program?
+> "Nourish the mind like you would your body. The mind cannot survive on junk food."
 >
-> **Punchline:** *Goodbye, world!*
+> — **Brian Tracy**
 <!-- END_DAILY_QUOTE -->
 
 ---
