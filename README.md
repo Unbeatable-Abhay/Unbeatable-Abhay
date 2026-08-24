@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Nourish the mind like you would your body. The mind cannot survive on junk food."
+> "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."
 >
-> — **Brian Tracy**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
