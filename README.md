@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."
+> "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."
 >
-> — *Programming Joke*
+> — **Bob Proctor**
 <!-- END_DAILY_QUOTE -->
 
 ---
