@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."
+> **Setup:** What is the most used language in programming?
 >
-> — **Bob Proctor**
+> **Punchline:** *Profanity.*
 <!-- END_DAILY_QUOTE -->
 
 ---
