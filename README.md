@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the most used language in programming?
+> **Setup:** What is the best prefix for global variables?
 >
-> **Punchline:** *Profanity.*
+> **Punchline:** *//*
 <!-- END_DAILY_QUOTE -->
 
 ---
