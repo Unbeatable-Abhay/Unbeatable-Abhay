@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the best prefix for global variables?
+> "Your mama's so FAT she can't save files bigger than 4GB."
 >
-> **Punchline:** *//*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
