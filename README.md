@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Over time, loneliness gets inside you and doesn't go away."
+> **Setup:** Why did the Python programmer not respond to the foreign mails he got?
 >
-> — **Carlos Ruiz Zafon**
+> **Punchline:** *Because his interpreter was busy collecting garbage.*
 <!-- END_DAILY_QUOTE -->
 
 ---
