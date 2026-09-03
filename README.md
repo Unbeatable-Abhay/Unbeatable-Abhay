@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in"."
+> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."
 >
-> — *Programming Joke*
+> — **Mark Manson**
 <!-- END_DAILY_QUOTE -->
 
 ---
