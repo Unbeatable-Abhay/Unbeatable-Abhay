@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."
+> "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."
 >
-> — **Mark Manson**
+> — **James Matthew Barrie**
 <!-- END_DAILY_QUOTE -->
 
 ---
