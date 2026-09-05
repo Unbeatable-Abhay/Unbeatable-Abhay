@@ -92,9 +92,12 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."
+> "A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off.""
 >
-> — **James Matthew Barrie**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
