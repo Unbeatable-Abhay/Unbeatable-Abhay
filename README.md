@@ -92,12 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off.""
+> **Setup:** Why do programmers confuse Halloween and Christmas?
 >
-> — *Programming Joke*
+> **Punchline:** *Because Oct 31 = Dec 25*
 <!-- END_DAILY_QUOTE -->
 
 ---
