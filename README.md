@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers confuse Halloween and Christmas?
+> "Do what you feel in your heart to be right - for you'll be criticized anyway."
 >
-> **Punchline:** *Because Oct 31 = Dec 25*
+> — **Eleanor Roosevelt**
 <!-- END_DAILY_QUOTE -->
 
 ---
