@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Do what you feel in your heart to be right - for you'll be criticized anyway."
+> "Debugging: Removing the needles from the haystack."
 >
-> — **Eleanor Roosevelt**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
