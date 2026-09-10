@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why was the JavaScript developer sad?
+> **Setup:** Why did the programmer quit his job?
 >
-> **Punchline:** *Because they didn't Node how to Express themself!*
+> **Punchline:** *Because he didn't get arrays.*
 <!-- END_DAILY_QUOTE -->
 
 ---
