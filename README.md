@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Wherever you are, and whatever you do, be in love."
+> "It is better to disappoint people with the truth than to appease them with a lie."
 >
-> — **Rumi**
+> — **Simon Sinek**
 <!-- END_DAILY_QUOTE -->
 
 ---
