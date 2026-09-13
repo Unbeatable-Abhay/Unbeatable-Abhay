@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "It is better to disappoint people with the truth than to appease them with a lie."
+> "True it is, we only hate those whom we do not know."
 >
-> — **Simon Sinek**
+> — **Andrew Carnegie**
 <!-- END_DAILY_QUOTE -->
 
 ---
