@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "True it is, we only hate those whom we do not know."
+> "I would rather be a little nobody, then to be an evil somebody."
 >
-> — **Andrew Carnegie**
+> — **Abraham Lincoln**
 <!-- END_DAILY_QUOTE -->
 
 ---
