@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "I would rather be a little nobody, then to be an evil somebody."
+> "Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary."
 >
-> — **Abraham Lincoln**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
