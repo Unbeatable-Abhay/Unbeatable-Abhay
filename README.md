@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
+> "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."
 >
-> — *Programming Joke*
+> — **Andrew Carnegie**
 <!-- END_DAILY_QUOTE -->
 
 ---
