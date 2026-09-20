@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Follow your heart, listen to your inner voice, stop caring about what others think."
+> "A fool sees himself as another, but a wise man sees others as himself."
 >
-> — **Roy T. Bennett**
+> — **Dogen**
 <!-- END_DAILY_QUOTE -->
 
 ---
