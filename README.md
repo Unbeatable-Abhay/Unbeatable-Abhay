@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the best prefix for global variables?
+> **Setup:** Why was the JavaScript developer sad?
 >
-> **Punchline:** *//*
+> **Punchline:** *Because they didn't Node how to Express themself!*
 <!-- END_DAILY_QUOTE -->
 
 ---
