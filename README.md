@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why was the JavaScript developer sad?
+> "Common sense is not so common."
 >
-> **Punchline:** *Because they didn't Node how to Express themself!*
+> — **Voltaire**
 <!-- END_DAILY_QUOTE -->
 
 ---
