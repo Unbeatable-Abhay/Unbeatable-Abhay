@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Common sense is not so common."
+> **Setup:** why do python programmers wear glasses?
 >
-> — **Voltaire**
+> **Punchline:** *Because they can't C.*
 <!-- END_DAILY_QUOTE -->
 
 ---
