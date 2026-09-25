@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** why do python programmers wear glasses?
+> "Algorithm: A word used by programmers when they don't want to explain how their code works."
 >
-> **Punchline:** *Because they can't C.*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
