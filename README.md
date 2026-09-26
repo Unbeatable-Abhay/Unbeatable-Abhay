@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Algorithm: A word used by programmers when they don't want to explain how their code works."
+> **Setup:** So what's a set of predefined steps the government might take to preserve the environment?
 >
-> — *Programming Joke*
+> **Punchline:** *An Al-Gore-ithm.*
 <!-- END_DAILY_QUOTE -->
 
 ---
