@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** So what's a set of predefined steps the government might take to preserve the environment?
+> "A crisis is an opportunity riding the dangerous wind."
 >
-> **Punchline:** *An Al-Gore-ithm.*
+> — **Chinese Proverb**
 <!-- END_DAILY_QUOTE -->
 
 ---
