@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "A crisis is an opportunity riding the dangerous wind."
+> "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
 >
-> — **Chinese Proverb**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
