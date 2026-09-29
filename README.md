@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+> **Setup:** Why do programmers wear glasses?
 >
-> — *Programming Joke*
+> **Punchline:** *Because they need to C#*
 <!-- END_DAILY_QUOTE -->
 
 ---
