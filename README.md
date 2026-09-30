@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers wear glasses?
+> "You can't climb the ladder of success with your hands in your pockets."
 >
-> **Punchline:** *Because they need to C#*
+> — **Arnold Schwarzenegger**
 <!-- END_DAILY_QUOTE -->
 
 ---
