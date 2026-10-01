@@ -92,9 +92,13 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "You can't climb the ladder of success with your hands in your pockets."
+> "Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock."
 >
-> — **Arnold Schwarzenegger**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
