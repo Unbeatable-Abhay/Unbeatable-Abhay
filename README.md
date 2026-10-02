@@ -92,11 +92,7 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."
+> "I have a joke about Stack Overflow, but you would say it's a duplicate."
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
