@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."
+> **Setup:** Why did the Python programmer not respond to the foreign mails he got?
 >
-> — *Programming Joke*
+> **Punchline:** *Because his interpreter was busy collecting garbage.*
 <!-- END_DAILY_QUOTE -->
 
 ---
