@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the Python programmer not respond to the foreign mails he got?
+> "The biggest adventure you can ever take is to live the life of your dreams."
 >
-> **Punchline:** *Because his interpreter was busy collecting garbage.*
+> — **Oprah Winfrey**
 <!-- END_DAILY_QUOTE -->
 
 ---
