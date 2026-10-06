@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The biggest adventure you can ever take is to live the life of your dreams."
+> "One of the oldest human needs is having someone to wonder where you are when you don't come home at night."
 >
-> — **Oprah Winfrey**
+> — **Margaret Mead**
 <!-- END_DAILY_QUOTE -->
 
 ---
