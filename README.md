@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "One of the oldest human needs is having someone to wonder where you are when you don't come home at night."
+> "Genius is patience."
 >
-> — **Margaret Mead**
+> — **Isaac Newton**
 <!-- END_DAILY_QUOTE -->
 
 ---
