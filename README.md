@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Genius is patience."
+> **Setup:** Why did the database administrator leave his wife?
 >
-> — **Isaac Newton**
+> **Punchline:** *She had one-to-many relationships.*
 <!-- END_DAILY_QUOTE -->
 
 ---
