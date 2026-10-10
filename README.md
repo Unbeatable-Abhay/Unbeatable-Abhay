@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Life reflects your own thoughts back to you."
+> "The eyes of others our prisons; their thoughts our cages."
 >
-> — **Napoleon Hill**
+> — **Virginia Woolf**
 <!-- END_DAILY_QUOTE -->
 
 ---
