@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The eyes of others our prisons; their thoughts our cages."
+> "It is easier to fight for one's principles than to live up to them."
 >
-> — **Virginia Woolf**
+> — **Alfred Adler**
 <!-- END_DAILY_QUOTE -->
 
 ---
