@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "It is easier to fight for one's principles than to live up to them."
+> **Setup:** Why do programmers prefer using the dark mode?
 >
-> — **Alfred Adler**
+> **Punchline:** *Because light attracts bugs.*
 <!-- END_DAILY_QUOTE -->
 
 ---
