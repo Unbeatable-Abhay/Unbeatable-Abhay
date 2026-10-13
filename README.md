@@ -92,9 +92,13 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers prefer using the dark mode?
+> "Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock."
 >
-> **Punchline:** *Because light attracts bugs.*
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
