@@ -92,13 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."
+> "The whole is greater than the sum of its parts."
 >
-> — *Programming Joke*
+> — **Aristotle**
 <!-- END_DAILY_QUOTE -->
 
 ---
