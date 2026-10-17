@@ -92,12 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn.""
+> "The only person you should try to be better than is the person you were yesterday."
 >
-> — *Programming Joke*
+> — **Brian Tracy**
 <!-- END_DAILY_QUOTE -->
 
 ---
