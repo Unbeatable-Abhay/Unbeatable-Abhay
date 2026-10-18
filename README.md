@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "The only person you should try to be better than is the person you were yesterday."
+> **Setup:** Why did the web developer walk out of a resturant in disgust?
 >
-> — **Brian Tracy**
+> **Punchline:** *The seating was laid out in tables.*
 <!-- END_DAILY_QUOTE -->
 
 ---
