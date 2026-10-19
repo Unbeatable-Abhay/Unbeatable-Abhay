@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the web developer walk out of a resturant in disgust?
+> **Setup:** What is the most used language in programming?
 >
-> **Punchline:** *The seating was laid out in tables.*
+> **Punchline:** *Profanity.*
 <!-- END_DAILY_QUOTE -->
 
 ---
