@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the most used language in programming?
+> "Don't let the noise of others' opinions drown out your own inner voice."
 >
-> **Punchline:** *Profanity.*
+> — **Steve Jobs**
 <!-- END_DAILY_QUOTE -->
 
 ---
