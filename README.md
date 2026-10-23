@@ -92,11 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> ""Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke.""
+> "I will not walk backward in life."
 >
-> — *Programming Joke*
+> — **J.R.R. Tolkien**
 <!-- END_DAILY_QUOTE -->
 
 ---
