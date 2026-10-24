@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "I will not walk backward in life."
+> "None but ourselves can free our minds."
 >
-> — **J.R.R. Tolkien**
+> — **Bob Marley**
 <!-- END_DAILY_QUOTE -->
 
 ---
