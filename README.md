@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "None but ourselves can free our minds."
+> **Setup:** What's the object-oriented way to become wealthy?
 >
-> — **Bob Marley**
+> **Punchline:** *Inheritance.*
 <!-- END_DAILY_QUOTE -->
 
 ---
