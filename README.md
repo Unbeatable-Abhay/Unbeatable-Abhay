@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What's the object-oriented way to become wealthy?
+> "Sometimes letting things go is an act of far greater power than defending or hanging on."
 >
-> **Punchline:** *Inheritance.*
+> — **Eckhart Tolle**
 <!-- END_DAILY_QUOTE -->
 
 ---
