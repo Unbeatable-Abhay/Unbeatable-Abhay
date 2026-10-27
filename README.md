@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Sometimes letting things go is an act of far greater power than defending or hanging on."
+> "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
 >
-> — **Eckhart Tolle**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
