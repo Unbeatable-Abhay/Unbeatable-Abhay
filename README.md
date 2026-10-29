@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Trust, like the soul, never returns once it is gone."
+> "Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."
 >
-> — **Publilius Syrus**
+> — **Estee Lauder**
 <!-- END_DAILY_QUOTE -->
 
 ---
