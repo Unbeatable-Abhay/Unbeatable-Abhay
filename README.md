@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "To avoid criticism, do nothing, say nothing, and be nothing."
+> "Life has the name of life, but in reality it is death."
 >
-> — **Elbert Hubbard**
+> — **Heraclitus**
 <!-- END_DAILY_QUOTE -->
 
 ---
