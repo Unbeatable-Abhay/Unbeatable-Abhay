@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Life has the name of life, but in reality it is death."
+> "Hope and fear come from feeling that we lack something; they come from a sense of poverty."
 >
-> — **Heraclitus**
+> — **Pema Chodron**
 <!-- END_DAILY_QUOTE -->
 
 ---
