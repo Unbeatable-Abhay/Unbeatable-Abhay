@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Hope and fear come from feeling that we lack something; they come from a sense of poverty."
+> **Setup:** What is the most used language in programming?
 >
-> — **Pema Chodron**
+> **Punchline:** *Profanity.*
 <!-- END_DAILY_QUOTE -->
 
 ---
