@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What is the most used language in programming?
+> "Always turn a negative situation into a positive situation."
 >
-> **Punchline:** *Profanity.*
+> — **Michael Jordan**
 <!-- END_DAILY_QUOTE -->
 
 ---
