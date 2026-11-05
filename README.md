@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Always turn a negative situation into a positive situation."
+> **Setup:** Why did the functional programmer get thrown out of school?
 >
-> — **Michael Jordan**
+> **Punchline:** *Because he refused to take classes.*
 <!-- END_DAILY_QUOTE -->
 
 ---
