@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the functional programmer get thrown out of school?
+> "There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow."
 >
-> **Punchline:** *Because he refused to take classes.*
+> — **Orison Swett Marden**
 <!-- END_DAILY_QUOTE -->
 
 ---
