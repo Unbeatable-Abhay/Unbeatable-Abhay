@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+> "If you can't imagine it, you can't have it."
 >
-> **Punchline:** *A regular expression.*
+> — **Toni Morrison**
 <!-- END_DAILY_QUOTE -->
 
 ---
