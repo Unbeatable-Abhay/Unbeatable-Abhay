@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If you can't imagine it, you can't have it."
+> "Your business is not to 'get somewhere' - it is to be here."
 >
-> — **Toni Morrison**
+> — **Dan Millman**
 <!-- END_DAILY_QUOTE -->
 
 ---
