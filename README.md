@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Your business is not to 'get somewhere' - it is to be here."
+> "If you've never eaten while crying you don t know what life tastes like."
 >
-> — **Dan Millman**
+> — **Johann Wolfgang von Goethe**
 <!-- END_DAILY_QUOTE -->
 
 ---
