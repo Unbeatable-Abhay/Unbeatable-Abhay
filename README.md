@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "If you've never eaten while crying you don t know what life tastes like."
+> "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."
 >
-> — **Johann Wolfgang von Goethe**
+> — **Jack Butcher**
 <!-- END_DAILY_QUOTE -->
 
 ---
