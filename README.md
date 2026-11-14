@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."
+> "Don't change your mind just because people are offended; change your mind if you're wrong."
 >
-> — **Jack Butcher**
+> — **Criss Jami**
 <!-- END_DAILY_QUOTE -->
 
 ---
