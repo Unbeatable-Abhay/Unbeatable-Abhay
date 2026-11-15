@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Don't change your mind just because people are offended; change your mind if you're wrong."
+> **Setup:** Why did the functional programmer get thrown out of school?
 >
-> — **Criss Jami**
+> **Punchline:** *Because he refused to take classes.*
 <!-- END_DAILY_QUOTE -->
 
 ---
