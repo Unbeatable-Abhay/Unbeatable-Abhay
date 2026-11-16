@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the functional programmer get thrown out of school?
+> **Setup:** Why did the database administrator leave his wife?
 >
-> **Punchline:** *Because he refused to take classes.*
+> **Punchline:** *She had one-to-many relationships.*
 <!-- END_DAILY_QUOTE -->
 
 ---
