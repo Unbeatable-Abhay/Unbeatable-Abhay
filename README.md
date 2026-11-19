@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Being in a good frame of mind helps keep one in the picture of health."
+> ""We messed up the keming again guys.""
 >
-> — **Unknown**
+> — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
 
 ---
