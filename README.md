@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> ""We messed up the keming again guys.""
+> "Dreams have only one owner at a time. That's why dreamers are lonely."
 >
-> — *Programming Joke*
+> — **William Faulkner**
 <!-- END_DAILY_QUOTE -->
 
 ---
