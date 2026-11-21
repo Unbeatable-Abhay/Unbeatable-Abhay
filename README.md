@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Dreams have only one owner at a time. That's why dreamers are lonely."
+> **Setup:** Why do programmers confuse Halloween and Christmas?
 >
-> — **William Faulkner**
+> **Punchline:** *Because Oct 31 = Dec 25*
 <!-- END_DAILY_QUOTE -->
 
 ---
