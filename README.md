@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why do programmers confuse Halloween and Christmas?
+> **Setup:** Why was the JavaScript developer sad?
 >
-> **Punchline:** *Because Oct 31 = Dec 25*
+> **Punchline:** *Because they didn't Node how to Express themself!*
 <!-- END_DAILY_QUOTE -->
 
 ---
