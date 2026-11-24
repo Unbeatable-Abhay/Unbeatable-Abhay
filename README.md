@@ -92,7 +92,8 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary."
+> "A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?""
 >
 > — *Programming Joke*
 <!-- END_DAILY_QUOTE -->
