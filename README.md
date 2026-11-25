@@ -92,10 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> "A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?""
+> **Setup:** What is a dying programmer's last program?
 >
-> — *Programming Joke*
+> **Punchline:** *Goodbye, world!*
 <!-- END_DAILY_QUOTE -->
 
 ---
