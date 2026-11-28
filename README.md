@@ -92,9 +92,9 @@ I'm **Abhay**, a **Computer Science & AI Student** and passionate **Python Devel
 ---
 
 <!-- START_DAILY_QUOTE -->
-> **Setup:** Why did the Python data scientist get arrested at customs?
+> **Setup:** What are bits?
 >
-> **Punchline:** *She was caught trying to import pandas!*
+> **Punchline:** *Tiny things left when you drop your computer down the stairs.*
 <!-- END_DAILY_QUOTE -->
 
 ---
